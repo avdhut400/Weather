@@ -1,6 +1,6 @@
 # 🌦️ Weather Forecast App
 
-A simple and clean weather application built using **React** and **Vite** that shows real-time weather information using a public weather API.
+A simple and clean weather application built using **React** and **Vite** that shows real-time weather information using a public weather API
 
 ---
 
